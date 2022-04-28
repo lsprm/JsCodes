@@ -1,4 +1,4 @@
-/* CodeCademy Number Guesser Code challenge */
+/* CodeCademy Number Guesser Code challenge (script file) */
 
 let humanScore = 0;
 let computerScore = 0;
